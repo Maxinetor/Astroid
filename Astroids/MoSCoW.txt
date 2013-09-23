@@ -1,0 +1,10 @@
+Should:
+ufo
+more lives
+
+Could:
+effects
+GUI
+
+Dont:
+MMORPG
